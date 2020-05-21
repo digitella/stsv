@@ -33,7 +33,7 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/helyx8.jpeg",
-    "cssOptimize": true,
+    "cssOptimize": false,
     "imageResize": false,
     "lazyLoad": false,
     "lazyType": "nothing",
